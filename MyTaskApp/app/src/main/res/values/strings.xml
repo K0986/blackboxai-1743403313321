@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="add_task">Add New Task</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="save_task">Save Task</string>
+    <string name="title_empty">Title cannot be empty</string>
+    <string name="task_added">Task added successfully</string>
+    <string name="task_updated">Task updated successfully</string>
+</resources>
